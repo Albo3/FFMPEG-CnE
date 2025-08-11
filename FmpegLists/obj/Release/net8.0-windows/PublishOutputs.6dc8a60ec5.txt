@@ -1,5 +1,0 @@
-C:\Users\Neet\Documents\Learning\C#\Published\FmpegLists.exe
-C:\Users\Neet\Documents\Learning\C#\Published\FmpegLists.dll
-C:\Users\Neet\Documents\Learning\C#\Published\FmpegLists.deps.json
-C:\Users\Neet\Documents\Learning\C#\Published\FmpegLists.runtimeconfig.json
-C:\Users\Neet\Documents\Learning\C#\Published\FmpegLists.pdb

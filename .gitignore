@@ -1,0 +1,26 @@
+## C#/.NET
+
+# Visual Studio cache files
+.vs/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.csproj.user
+*.suo
+*.user
+
+# NuGet packages
+*.nupkg
+
+# Rider - https://www.jetbrains.com/help/rider/Sharing_Configuration_Options.html
+*.sln.iml
+.idea/
+
+# Mac files
+.DS_Store
+
+# Windows files
+Thumbs.db
